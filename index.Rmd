@@ -1,0 +1,101 @@
+---
+title: "Literature Synthesis: Meta-analyses and Systematic reviews"
+description: "FRB-CESAB Workshop"
+author:
+  - name: "Damien Beillouin"
+    url: https://www.researchgate.net/profile/Damien-Beillouin
+    affiliation: Cirad HortSys
+    affiliation_url: https://ur-hortsys.cirad.fr/
+    orcid_id: 0000-0003-2014-3482
+  - name: "Jonathan Bonfanti"
+    url: https://www.researchgate.net/profile/Jonathan-Bonfanti
+    affiliation: Cirad HortSys
+    affiliation_url: https://ur-hortsys.cirad.fr/
+    orcid_id: 0000-0003-0049-4410
+  - name: "C. Sylvie Campagne"
+    url: https://csylviecampagne.com/
+    affiliation: Station Biologique de Roscoff
+    affiliation_url: https://www.sb-roscoff.fr/en
+    orcid_id: 0000-0002-2566-7827
+  - name: "Nicolas Casajus"
+    url: https://nicolascasajus.fr
+    affiliation: FRB-CESAB
+    affiliation_url: https://www.fondationbiodiversite.fr/la-fondation/le-cesab/
+    orcid_id: 0000-0002-5537-5294
+  - name: "Joseph Langridge"
+    url: https://www.researchgate.net/profile/Joseph-Langridge
+    affiliation: FRB
+    affiliation_url: https://www.fondationbiodiversite.fr
+    orcid_id: 0000-0002-9427-439X
+date: "`r format(Sys.Date(), '%m-%d-%Y')`"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+![](img/banner-literaturesynthesis_150dpi.png)
+
+
+
+<br />
+
+
+This five-day workshop, organized by the 
+[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/),
+aims to train young researchers on the methods and techniques of meta-analyses 
+and systematic reviews/maps applied to the field of biodiversity.
+
+The first edition of this training course will take place from the 3rd to the 
+7th of October 2022 in the CESAB premises in Montpellier.
+
+
+<br />
+
+
+
+## Program
+
+
+Coming soon...
+
+
+<br/>
+
+
+
+## Prerequisites
+
+
+
+Please follow this [tutorial](instructions.html) to correctly install your 
+working environment (R, RStudio, R packages, etc.).
+
+
+## Corrections {.appendix}
+
+
+If you see mistakes or want to suggest changes, please 
+[Create an issue](https://github.com/literaturesynthesis/literaturesynthesis.github.io/issues)
+on the source repository.
+
+
+
+## Reuse {.appendix}
+
+
+The material of this website is licensed under Creative Commons Attribution 
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Source code is available at https://github.com/literaturesynthesis/literaturesynthesis.github.io/.
+
+
+
+## Citation {.appendix}
+
+
+
+Beillouin D, Bonfanti J, Campagne CS, Casajus N & Langridge J (2022) 
+Workshop FRB-CESAB: Literature Synthesis, Meta-analyses and Systematic reviews (Edition 2022). 

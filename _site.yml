@@ -1,0 +1,20 @@
+name: "literaturesynthesis"
+title: "Literature Synthesis: Meta-analyses and Systematic reviews Workshop"
+description: |
+  Literature Synthesis: Meta-analyses and Systematic reviews Workshop
+base_url: https://literaturesynthesis.github.io
+favicon: img/favicon.png
+output_dir: "."
+navbar:
+  logo:
+    image: img/logo-literaturesynthesis_150dpi.png
+    href: https://literaturesynthesis.github.io
+  source_url: true
+  right:
+    - icon: fa fa-home
+      href: index.html
+    - text: "Instructions"
+      href: instructions.html
+    - icon: fab fa-github
+      href: https://github.com/literaturesynthesis/literaturesynthesis.github.io/
+output: distill::distill_article
