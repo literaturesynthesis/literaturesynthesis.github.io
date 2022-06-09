@@ -72,7 +72,7 @@ Coming soon...
 
 
 Please follow this [tutorial](instructions.html) to correctly install your 
-working environment (R, RStudio, R packages, etc.).
+working environment (R, RStudio, git, etc.).
 
 
 ## Corrections {.appendix}
