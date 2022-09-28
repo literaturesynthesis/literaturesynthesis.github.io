@@ -27,6 +27,21 @@ author:
     affiliation: FRB
     affiliation_url: https://www.fondationbiodiversite.fr
     orcid_id: 0000-0002-9427-439X
+  - name: "Frédéric Gosselin"
+    url: https://cv.archives-ouvertes.fr/frederic-gosselin
+    affiliation: INRAe
+    affiliation_url: https://www.inrae.fr/
+    orcid_id: 0000-0003-3737-106X
+  - name: " Dakis-Yaoba Ouédraogo"
+    url: https://www.researchgate.net/profile/Dakis-Yaoba-Ouedraogo-2
+    affiliation: UMS PatriNat
+    affiliation_url: https://www.patrinat.fr/fr
+    orcid_id: 0000-0003-2674-2259
+  - name: "Romain Sordello"
+    url: https://www.biodiversite.romain-sordello.fr/
+    affiliation: UMS PatriNat
+    affiliation_url: https://www.patrinat.fr/fr
+    orcid_id: 0000-0002-7144-101X
 date: "`r format(Sys.Date(), '%m-%d-%Y')`"
 site: distill::distill_website
 ---
@@ -49,9 +64,7 @@ This five-day workshop, organized by the
 aims to train young researchers on the methods and techniques of meta-analyses 
 and systematic reviews/maps applied to the field of biodiversity.
 
-The first edition of this training course will take place from the 3rd to the 
-7th of October 2022 in the CESAB premises in Montpellier.
-
+More information available [here](https://www.fondationbiodiversite.fr/en/evenement/revues-systematiques-2022/)
 
 <br />
 
@@ -60,7 +73,58 @@ The first edition of this training course will take place from the 3rd to the
 ## Program
 
 
-Coming soon...
+
+**Day 1**
+
+&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Welcoming participants and introduction to the week
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Introduction to knowledge synthesis
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+The systematic review protocol
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Bibliographic databases (Web of Science, Scopus, Google Scholar)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Formulation of the search equation (PECO/PICO approach)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Constitution of the corpus (Zotero, Mendeley)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Corpus cleaning
+
+
+**Day 2**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Article screening: systematic methods 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Article selection: eligibility criteria 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Metadata extraction 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Qualitative synthesis and data visualization 
+
+
+**Day 3**
+
+&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Critical appraisal: understanding its importance in meta-analyses/systematic reviews
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Introduction to meta-analytical approaches: how to calculate an effect-sizes
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Quantitative data extraction: what tools are available?
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Quantitative synthesis: visualizing the data e.g. forest plots, confident intervals, etc.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Risk of bias and interpretation of meta-analysis results 
+
+
+
+**Days 4 & 5**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
+Subgroup projects: conducting a meta-analysis with your chosen methods 
 
 
 <br/>
@@ -72,7 +136,7 @@ Coming soon...
 
 
 Please follow this [tutorial](instructions.html) to correctly install your 
-working environment (R, RStudio, git, etc.).
+working environment (R and RStudio).
 
 
 ## Corrections {.appendix}
@@ -97,5 +161,5 @@ Source code is available at https://github.com/literaturesynthesis/literaturesyn
 
 
 
-Beillouin D, Bonfanti J, Campagne CS, Casajus N & Langridge J (2022) 
+Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Langridge J, Ouédraogo D-Y & Sordello R (2022) 
 Workshop FRB-CESAB: Literature Synthesis, Meta-analyses and Systematic reviews (Edition 2022). 

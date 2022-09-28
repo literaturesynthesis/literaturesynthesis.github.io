@@ -42,9 +42,9 @@ Click on _Download R for Windows_
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
 Click on _base_
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Click on _Download R 4.2.0 for Windows_
+Click on _Download R 4.2.1 for Windows_
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Open _R-4.2.0-win.exe_ and follow instructions
+Open _R-4.2.1-win.exe_ and follow instructions
 
 
 
@@ -58,14 +58,14 @@ Open _R-4.2.0-win.exe_ and follow instructions
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
 Download the version for Windows 10/11 (the **.exe** and not the **.zip**)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Open _RStudio-2022.02.3-492.exe_ and follow instructions
+Open _RStudio-2022.07.2-576.exe_ and follow instructions
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
 Check if **`RStudio`** has found `r fontawesome::fa_i("r-project")`. 
 Launch **`RStudio`** and run:
 
 ```{r echo=TRUE, eval=FALSE}
 R.version.string
-## [1] "R version 4.2.0 (2022-04-22)"
+## [1] "R version 4.2.1 (2022-06-23)"
 ```
 
 
@@ -79,7 +79,7 @@ R.version.string
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
 Download the 64-bit version for Windows
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Open _Git-2.36.1-64-bit.exe_ and follow instructions
+Open _Git-2.37.3-64-bit.exe_ and follow instructions
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
 Check if **`RStudio`** has found **`git`**.
 Launch **`RStudio`** and run:
@@ -100,7 +100,7 @@ Sys.which("git")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
 Download the 64-bit version for Windows
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Open _rtools42-5253-5107_ and follow instructions
+Open _rtools42-5253-5107-signed.exe_ and follow instructions
 
 The installation of **`Rtools4.2`** is optional, but this software is required
 to install packages (from sources) containing compiled code (C/C++/Fortran). 
@@ -139,7 +139,7 @@ and follow instructions.
 
 
 
-6. Install a **`LaTeX`** distribution (optional)
+6. Install a **`LaTeX`** distribution
 
 If you want to convert documents from `.Rmd` to `.pdf`, you will need **`LaTeX`**. 
 You can install a lightened distribution using the `r fontawesome::fa_i("r-project")`
@@ -184,7 +184,7 @@ Then you can install **`Homebrew`**:
 
 ## Check installation ----
 brew --version
-## Homebrew 3.5.1-24-ga3d14ff
+## Homebrew 3.6.3
 
 ## Update repositories (list of available software) ----
 brew update
@@ -215,7 +215,7 @@ Open **`RStudio`** and check your installation:
 
 ```{r echo=TRUE, eval=FALSE}
 R.version.string
-## "R version 4.2.0 (2022-04-22)"
+## "R version 4.2.1 (2022-06-23)"
 
 Sys.which("git")
 ##            git
@@ -296,7 +296,6 @@ cat /etc/issue
 | 22.04 LTS | Jammy Jellyfish | https://cloud.r-project.org/bin/linux/ubuntu jammy-cran40/   |
 | 20.04 LTS | Focal Fossa     | https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/   |
 | 18.04 LTS | Bionic Beaver   | https://cloud.r-project.org/bin/linux/ubuntu bionic-cran40/  |
-| 16.04 LTS | Xenial Xerus    | https://cloud.r-project.org/bin/linux/ubuntu xenial-cran40/  |
 : Table 1. List of CRAN repositories for different versions of Ubuntu LTS
 
 <br/>
@@ -331,8 +330,7 @@ sudo apt install r-base-dev
 
 To install **`RStudio Desktop`** visit this page: 
 https://www.rstudio.com/products/rstudio/download/#download, download the
-`.deb` file for Ubuntu version. If you have an older version 
-of Ubuntu (e.g. 16.04), visit this page: https://www.rstudio.com/products/rstudio/older-versions/
+`.deb` file for Ubuntu version.
 
 Alternatively, you can install **`RStudio Desktop`** from the terminal: 
 
@@ -341,23 +339,18 @@ Alternatively, you can install **`RStudio Desktop`** from the terminal:
 sudo apt install wget
 
 ## Download RStudio Desktop installer (Ubuntu 22.04) ----
-wget https://download1.rstudio.org/desktop/jammy/amd64/rstudio-2022.02.3-492-amd64.deb
+wget https://download1.rstudio.org/desktop/jammy/amd64/rstudio-2022.07.2-576-amd64.deb
 
 ## Download RStudio Desktop installer (Ubuntu >= 18.04) ----
-# wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.02.1-461-amd64.deb
-
-## Download RStudio Desktop installer (Ubuntu 16.04 only) ----
-# wget https://download1.rstudio.org/desktop/xenial/amd64/rstudio-1.4.1106-amd64.deb
+# wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.07.2-576-amd64.deb
 
 ## Install RStudio Desktop ----
-sudo dpkg -i rstudio-2022.02.3-492-amd64.deb     # Ubuntu 22.04 LTS only
-# sudo dpkg -i rstudio-2022.02.1-461-amd64.deb   # Ubuntu >= 18.04 LTS
-# sudo dpkg -i rstudio-1.4.1106-amd64.deb        # Ubuntu 16.04 LTS only
+sudo dpkg -i rstudio-2022.07.2-576-amd64.deb     # Ubuntu 22.04 LTS only
+# sudo dpkg -i rstudio-2022.07.2-576-amd64.deb   # Ubuntu >= 18.04 LTS
 
 ## Remove installer ----
-rm rstudio-2022.02.3-492-amd64.deb
-# rm rstudio-2022.02.1-461-amd64.deb
-# rm rstudio-1.4.1106-amd64.deb
+rm rstudio-2022.07.2-576-amd64.deb
+# rm rstudio-2022.07.2-576-amd64.deb
 ```
 
 <br/>
@@ -382,7 +375,7 @@ Open **`RStudio`** and check your installation:
 
 ```{r echo=TRUE, eval=FALSE}
 R.version.string
-## "R version 4.2.0 (2022-04-22)"
+## "R version 4.2.1 (2022-06-23)"
 
 Sys.which("git")
 ##            git
@@ -625,5 +618,5 @@ Source code is available at https://github.com/literaturesynthesis/literaturesyn
 
 
 
-Beillouin D, Bonfanti J, Campagne CS, Casajus N & Langridge J (2022) 
+Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Langridge J, Ouédraogo D-Y & Sordello R (2022) 
 Workshop FRB-CESAB: Literature Synthesis, Meta-analyses and Systematic reviews (Edition 2022). 
