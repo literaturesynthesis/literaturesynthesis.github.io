@@ -18,8 +18,14 @@ navbar:
     - text: "Courses"
       menu:
       - text: "DAY 1"
-      - text: "General introduction"
+      - text: "General Introduction"
         href: "courses/Introduction_DB_JL.pdf"
+      - text: "Formulating review questions"
+        href: "#"
+      - text: "The Protocol"
+        href: "#"
+      - text: "Systematic Map"
+        href: "#"
       - text: "Corpus management"
         href: "https://literaturesynthesis.github.io/corpus-management"
     - icon: fab fa-github
