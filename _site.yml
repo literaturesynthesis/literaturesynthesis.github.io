@@ -18,16 +18,17 @@ navbar:
     - text: "Courses"
       menu:
       - text: "DAY 1"
-      - text: "General Introduction"
-        href: "courses/Introduction_DB_JL.pdf"
+      - text: "Introduction"
+        href: "courses/1-Introduction.pdf"
       - text: "Formulating review questions"
-        href: "#"
+        href: "courses/2-Stakeholders.pdf"
       - text: "The Protocol"
-        href: "#"
+        href: "courses/3-Protocol.pdf"
       - text: "Systematic Map"
-        href: "#"
+        href: "courses/4-SystematicMap.pdf"
       - text: "Corpus management"
         href: "https://literaturesynthesis.github.io/corpus-management"
+      - text: "DAY 2"
     - icon: fab fa-github
       href: https://github.com/literaturesynthesis/literaturesynthesis.github.io/
 output: distill::distill_article
