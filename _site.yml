@@ -24,11 +24,19 @@ navbar:
         href: "courses/2-Stakeholders.pdf"
       - text: "The Protocol"
         href: "courses/3-Protocol.pdf"
-      - text: "Systematic Map"
+      - text: "Systematic Map & Screening"
         href: "courses/4-SystematicMap.pdf"
       - text: "Corpus management"
         href: "https://literaturesynthesis.github.io/corpus-management"
       - text: "DAY 2"
+      - text: "Reporting"
+        href: "courses/7-Reporting.pdf"
+      - text: "Retrieving PDF"
+        href: "courses/8-SearchingPDF.pdf"
+      - text: "Metacoding"
+        href: "courses/9-Metacoding.pdf"
+      - text: "Data visualization"
+        href: "courses/10-Dataviz.pdf"
     - icon: fab fa-github
       href: https://github.com/literaturesynthesis/literaturesynthesis.github.io/
 output: distill::distill_article
