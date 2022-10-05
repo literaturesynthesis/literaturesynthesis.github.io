@@ -46,6 +46,7 @@ navbar:
         href: "courses/13-DataExtraction.pdf"
       - text: "Risk of bias"
         href: "courses/14-BiasRisk.pdf"
+      - text: "DAY 4"
     - icon: fab fa-github
       href: https://github.com/literaturesynthesis/literaturesynthesis.github.io/
 output: distill::distill_article
