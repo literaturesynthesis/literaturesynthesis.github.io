@@ -37,6 +37,15 @@ navbar:
         href: "courses/9-Metacoding.pdf"
       - text: "Data visualization"
         href: "courses/10-Dataviz.pdf"
+      - text: "DAY 3"
+      - text: "Critical analysis"
+        href: "courses/11-CriticalAnalysis.pdf"
+      - text: "Effect sizes"
+        href: "courses/12-EffectSizes.pdf"
+      - text: "Quantitative data extraction"
+        href: "courses/13-DataExtraction.pdf"
+      - text: "Risk of bias"
+        href: "courses/14-BiasRisk.pdf"
     - icon: fab fa-github
       href: https://github.com/literaturesynthesis/literaturesynthesis.github.io/
 output: distill::distill_article
