@@ -1,0 +1,135 @@
+---
+title: "Resources"
+output: 
+  distill::distill_article:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+<br/>
+
+
+
+**Planning & Question formulation**
+
+- Foo YZ, O'Dea RE, Koricheva J, Nakagawa S & Lagisz M (2021) A practical guide to question formation, systematic searching and study screening for literature reviews in ecology and evolution. **_Methods in Ecology and Evolution_**, doi: <https://doi.org/10.1111/2041-210X.13654>.
+
+- Haddaway NR & Westgate MJ (2018) Predicting the time needed for environmental systematic reviews and systematic maps. **_Conservation Biology_**, doi: <https://doi.org/10.1111/cobi.13231>.
+
+- Haddaway NR, Bethel A, Dicks LV, Koricheva J, Macura B, Petrokofsky G, Pullin AS, Savilaakso S & Stewart GB (2020) Eight problems with literature reviews and how to fix them. **_Nature Ecology & Evolution_**, doi: <https://doi.org/10.1038/s41559-020-01295-x>.
+
+- Livoreil B, Glanville J, Haddaway NR, Bayliss H, Bethel A, Flamerie de Lachapelle F, Robalino S, Savilaakso S, Zhou W, Petrokofsky G & Frampton G (2017) Systematic searching for environmental evidence using multiple tools and sources. Environmental Evidence, doi: <https://doi.org/10.1186/s13750-017-0099-6>.
+
+- Navarro C, Berrebi B, Livoreil B, Richard G & Soubelet H (2020) _Méthodes d’expertise : comment les utiliser ?_ Expertise et synthèse. Paris, France : FRB, 104p. URL: <https://www.fondationbiodiversite.fr/guide-des-methodes-dexpertise/>.
+
+
+
+<br/>
+
+
+**Databases & Search engines**
+
+- Haddaway NR, Collins AM, Coughlin D & Kirk S (2015) The role of Google Scholar in evidence reviews and its applicability to grey literature searching. **_PLOS One 10_**, doi: <https://doi.org/10.1371/journal.pone.0138237>.
+
+
+
+<br/>
+
+
+**Systematic mapping**
+
+
+- Haddaway NR, Bernes C, Jonsson B-G & Hedlund K (2016) The Benefits of systematic mapping to evidence-based environmental management. **_Ambio_**, doi: <https://doi.org/10.1007/s13280-016-0773-x>.
+
+- James KL, Randall NP & Haddaway NR (2016) A methodology for systematic mapping in environmental sciences. **_Environmental Evidence_**, doi: <https://doi.org/10.1186/s13750-016-0059-6>.
+
+
+<br/>
+
+
+**Critical analysis & Systematic reviewing**
+
+- Sordello R, Bertheau Y, Coulon A, Jeusset A, Ouédraogo DY, Vanpeene S, Vargac M, Villemey A, Witté I, Reyjol Y & Touroult J (2019) Les protocoles expérimentaux en écologie : principaux points clefs. UMS PatrNat, CESCO, Irstea. 32p. URL: <https://www.patrinat.fr/fr/actualites/publication-dun-rapport-de-lums-sur-les-protocoles-experimentaux-6445>.
+
+- CEE Critical Appraisal Tool:  <https://environmentalevidence.org/cee-critical-appraisal-tool/>
+
+
+<br/>
+
+
+**Meta-analyses**
+
+- Borenstein M, Hedges LV, Higgins JPT & Rothstein HR (2009) Introduction to meta-analysis. doi: <https://doi.org/10.1002/9780470743386>.
+
+- Koricheva J, Gurevitch J & Mengersen K (2013) Handbook of meta-analysis in ecology and evolution. Princeton University Press, 592p. URL:
+<https://www.jstor.org/stable/j.ctt24hq6n>
+
+
+<br/>
+
+
+**R Packages**
+
+- Lajeunesse MJ (2016) Facilitating systematic reviews, data extraction and meta-analysis with the `metagear` package for R. **_Methods in Ecology & Evolution_**, doi: <https://doi.org/10.1111/2041-210X.12472>.
+
+- Viechtbauer W (2010) Conducting meta-analyses in R with the `metafor` package. **_Journal of Statistical Software_**, doi: <https://doi.org/10.18637/jss.v036.i03>.
+
+- Westgate MJ (2019) `revtools`: An R package to support article screening for evidence synthesis. **_Research Synthesis Methods_**, doi: <http://doi.org/10.1002/jrsm.1374>.
+
+- Pick JL, Nakagawa S & Noble DWA (2019) Reproducible, flexible and high-throughput data extraction from primary literature: The `metaDigitise` R package. **_Methods in Ecology & Evolution_**, doi: <https://doi.org/10.1111/2041-210X.13118>.
+
+- Grames EM, Stillman AN, Tingley MW & Elphick CS (2019) An automated approach to identifying search terms for systematic reviews using keyword co-occurrence networks. **_Methods in Ecology & Evolution_**, doi: <https://doi.org/10.1111/2041-210X.13268>.
+
+
+<br/>
+
+
+
+**Websites**
+
+- <https://www.metafor-project.org/doku.php/metafor>
+- <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/>
+
+
+<br/>
+
+
+
+**A must read**
+
+- Pullin AS, Cheng SH, Jackson JD, Eales J, Envall I, Fada SJ, Frampton GK, Harper M, Kadykalo AN, Kohl C, Konno K, Livoreil B, Ouédraogo D-Y, O'Leary BC, Pullin G, Randall N, Rees R, Smith A, Sordello R, Sterling EJ, Twardek WM, Woodcock P (2022) Standards of conduct and reporting in evidence syntheses that could inform environmental policy and management decisions. **_Environmental Evidence_**, doi: <https://doi.org/10.1186/s13750-022-00269-9>.
+
+
+
+<br/>
+
+
+
+## Corrections {.appendix}
+
+
+If you see mistakes or want to suggest changes, please 
+[Create an issue](https://github.com/literaturesynthesis/literaturesynthesis.github.io/issues)
+on the source repository.
+
+
+
+## Reuse {.appendix}
+
+
+The material of this website is licensed under Creative Commons Attribution 
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Source code is available at https://github.com/literaturesynthesis/literaturesynthesis.github.io/.
+
+
+
+## Citation {.appendix}
+
+
+
+Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Langridge J, Ouédraogo D-Y & Sordello R (2022) 
+Workshop FRB-CESAB: Literature Synthesis, Meta-analyses and Systematic reviews (Edition 2022). 
