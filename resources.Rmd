@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Haddaway NR, Bethel A, Dicks LV, Koricheva J, Macura B, Petrokofsky G, Pullin AS, Savilaakso S & Stewart GB (2020) Eight problems with literature reviews and how to fix them. **_Nature Ecology & Evolution_**, doi: <https://doi.org/10.1038/s41559-020-01295-x>.
 
-- Livoreil B, Glanville J, Haddaway NR, Bayliss H, Bethel A, Flamerie de Lachapelle F, Robalino S, Savilaakso S, Zhou W, Petrokofsky G & Frampton G (2017) Systematic searching for environmental evidence using multiple tools and sources. Environmental Evidence, doi: <https://doi.org/10.1186/s13750-017-0099-6>.
+- Livoreil B, Glanville J, Haddaway NR, Bayliss H, Bethel A, Flamerie de Lachapelle F, Robalino S, Savilaakso S, Zhou W, Petrokofsky G & Frampton G (2017) Systematic searching for environmental evidence using multiple tools and sources. **_Environmental Evidence_**, doi: <https://doi.org/10.1186/s13750-017-0099-6>.
 
 - Navarro C, Berrebi B, Livoreil B, Richard G & Soubelet H (2020) _Méthodes d’expertise : comment les utiliser ?_ Expertise et synthèse. Paris, France : FRB, 104p. URL: <https://www.fondationbiodiversite.fr/guide-des-methodes-dexpertise/>.
 
@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Databases & Search engines**
 
-- Haddaway NR, Collins AM, Coughlin D & Kirk S (2015) The role of Google Scholar in evidence reviews and its applicability to grey literature searching. **_PLOS One 10_**, doi: <https://doi.org/10.1371/journal.pone.0138237>.
+- Haddaway NR, Collins AM, Coughlin D & Kirk S (2015) The role of Google Scholar in evidence reviews and its applicability to grey literature searching. **_PLOS One_**, doi: <https://doi.org/10.1371/journal.pone.0138237>.
 
 
 
