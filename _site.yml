@@ -47,6 +47,8 @@ navbar:
       - text: "Risk of bias"
         href: "courses/14-BiasRisk.pdf"
       - text: "DAY 4"
+      - text: "Bayesian approach"
+        href: "courses/15-BayesianApproach.pdf"
     - icon: fab fa-github
       href: https://github.com/literaturesynthesis/literaturesynthesis.github.io/
 output: distill::distill_article
