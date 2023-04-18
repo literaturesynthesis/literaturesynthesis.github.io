@@ -1,7 +1,17 @@
 ---
-title: "Literature Synthesis: Meta-analyses and Systematic reviews"
-description: "FRB-CESAB Workshop"
+title: "Introduction to Meta-analyses and Systematic reviews"
+description:  |
+  FRB-CESAB & UMS PatriNat training course
+  <br><br>
+  <a href="https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-knowledge-synthesis-an-introduction-to-meta-analyses-and-systematic-reviews/">
+    <img class="logo" src="https://raw.githubusercontent.com/literaturesynthesis/.github/main/profile/banner-literaturesynthesis_150dpi.png" style="width: 100%;" />
+  </a>
 author:
+  - name: "Joseph Langridge"
+    url: https://www.researchgate.net/profile/Joseph-Langridge
+    affiliation: FRB
+    affiliation_url: https://www.fondationbiodiversite.fr
+    orcid_id: 0000-0002-9427-439X
   - name: "Damien Beillouin"
     url: https://www.researchgate.net/profile/Damien-Beillouin
     affiliation: Cirad HortSys
@@ -9,8 +19,8 @@ author:
     orcid_id: 0000-0003-2014-3482
   - name: "Jonathan Bonfanti"
     url: https://www.researchgate.net/profile/Jonathan-Bonfanti
-    affiliation: Cirad HortSys
-    affiliation_url: https://ur-hortsys.cirad.fr/
+    affiliation: "INRAe Eco&Sols"
+    affiliation_url: https://www.umr-ecosols.fr/
     orcid_id: 0000-0003-0049-4410
   - name: "C. Sylvie Campagne"
     url: https://csylviecampagne.com/
@@ -27,11 +37,6 @@ author:
     affiliation: INRAe
     affiliation_url: https://www.inrae.fr/
     orcid_id: 0000-0003-3737-106X
-  - name: "Joseph Langridge"
-    url: https://www.researchgate.net/profile/Joseph-Langridge
-    affiliation: FRB
-    affiliation_url: https://www.fondationbiodiversite.fr
-    orcid_id: 0000-0002-9427-439X
   - name: " Dakis-Yaoba Ouédraogo"
     url: https://www.researchgate.net/profile/Dakis-Yaoba-Ouedraogo-2
     affiliation: UMS PatriNat
@@ -51,20 +56,25 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
-![](https://raw.githubusercontent.com/literaturesynthesis/.github/main/profile/banner-literaturesynthesis_150dpi.png)
-
+::: {.box-info}
+`r fontawesome::fa_i("lightbulb")`&nbsp;
+**Pre-registration opens each spring and training course is provided each fall. Subscribe to the [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) to stay informed. More information is available on the  [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-knowledge-synthesis-an-introduction-to-meta-analyses-and-systematic-reviews/).**
+:::
 
 
 <br />
 
 
-This five-day workshop, organized by the 
-[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/),
-aims to train young researchers on the methods and techniques of meta-analyses 
+The objective of this five-day training course, co-organized by the
+[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
+and the 
+[UMS PatriNat](https://www.patrinat.fr/)
+is to train young researchers on the methods and techniques of meta-analyses 
 and systematic reviews/maps applied to the field of biodiversity.
 
-More information available [here](https://www.fondationbiodiversite.fr/en/evenement/revues-systematiques-2022/)
+**N.B.** This training course is **in French**, but some slides are available in English in the tab `Courses/`.
+
+
 
 <br />
 
@@ -74,57 +84,75 @@ More information available [here](https://www.fondationbiodiversite.fr/en/evenem
 
 
 
-**Day 1**
+<table>
+  
+  <tr>
+    <td rowspan="7">**Monday**</td>
+    <td>Icebreaker & Introduction to the week</td>
+  </tr>
+  <tr>
+    <td>Introduction to knowledge synthesis <span class="btn"><a href="courses/1-Introduction.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>The systematic review protocols <span class="btn"><a href="courses/2-Stakeholders.pdf">SLIDES</a></span><span class="btn"><a href="courses/3-Protocol.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Bibliographic databases (Web of Science, Scopus, Google Scholar) <span class="btn"><a href="courses/4-SystematicMap.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Formulation of the search equation (PECO/PICO approach) <span class="btn"><a href="courses/4-SystematicMap.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Constitution of the corpus (Zotero, Mendeley) <span class="btn"><a href="https://literaturesynthesis.github.io/corpus-management/">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Corpus cleaning <span class="btn"><a href="courses/4-SystematicMap.pdf">SLIDES</a></span></td>
+  </tr>
+  
+  <tr>
+    <td rowspan="4">**Tuesday**</td>
+    <td>Article screening: systematic methods <span class="btn"><a href="courses/7-Reporting.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Article selection: eligibility criteria <span class="btn"><a href="courses/8-SearchingPDF.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Metadata extraction <span class="btn"><a href="courses/9-Metacoding.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Qualitative synthesis and data visualization <span class="btn"><a href="courses/10-Dataviz.pdf">SLIDES</a></span></td>
+  </tr>
+  
+  <tr>
+    <td rowspan="5">**Wednesday**</td>
+    <td>Critical appraisal: understanding its importance <span class="btn"><a href="courses/11-CriticalAnalysis.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>How to calculate an effect-sizes? <span class="btn"><a href="courses/12-EffectSizes.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Quantitative data extraction: what tools are available? <span class="btn"><a href="courses/13-DataExtraction.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Quantitative synthesis: visualizing the data (forest plots, etc.) <span class="btn"><a href="courses/13-DataExtraction.pdf">SLIDES</a></span></td>
+  </tr>
+  <tr>
+    <td>Risk of bias and interpretation of meta-analysis results <span class="btn"><a href="courses/14-BiasRisk.pdf">SLIDES</a></span></td>
+  </tr>
+  
+  <tr>
+    <td>**Thursday**</td>
+    <td>Subgroups projects</td>
+  </tr>
+  
+  <tr>
+    <td>**Friday**</td>
+    <td>Subgroups projects</td>
+  </tr>
+  
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Welcoming participants and introduction to the week
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Introduction to knowledge synthesis
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-The systematic review protocol
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Bibliographic databases (Web of Science, Scopus, Google Scholar)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Formulation of the search equation (PECO/PICO approach)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Constitution of the corpus (Zotero, Mendeley)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Corpus cleaning
 
-
-**Day 2**
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Article screening: systematic methods 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Article selection: eligibility criteria 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Metadata extraction 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Qualitative synthesis and data visualization 
-
-
-**Day 3**
-
-&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Critical appraisal: understanding its importance in meta-analyses/systematic reviews
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Introduction to meta-analytical approaches: how to calculate an effect-sizes
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Quantitative data extraction: what tools are available?
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Quantitative synthesis: visualizing the data e.g. forest plots, confident intervals, etc.
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Risk of bias and interpretation of meta-analysis results 
-
-
-
-**Days 4 & 5**
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;`r fontawesome::fa_i("caret-right")` &nbsp;
-Subgroup projects: conducting a meta-analysis with your chosen methods 
 
 
 <br/>
@@ -133,33 +161,21 @@ Subgroup projects: conducting a meta-analysis with your chosen methods
 
 ## Prerequisites
 
+Please follow this [tutorial](https://frbcesab.github.io/training-courses/installation.html) to install your working environment **before** attending the training course.
 
 
-Please follow this [tutorial](instructions.html) to correctly install your 
-working environment (R and RStudio).
-
-
-## Corrections {.appendix}
-
-
-If you see mistakes or want to suggest changes, please 
-[Create an issue](https://github.com/literaturesynthesis/literaturesynthesis.github.io/issues)
-on the source repository.
+<br/>
 
 
 
-## Reuse {.appendix}
+## See also
 
 
-The material of this website is licensed under Creative Commons Attribution 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Source code is available at https://github.com/literaturesynthesis/literaturesynthesis.github.io/.
+Discover the other training courses provided by the FRB-CESAB and its partners: <https://frbcesab.github.io/training-courses/>
 
 
 
 ## Citation {.appendix}
 
-
-
-Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Langridge J, Ouédraogo D-Y & Sordello R (2022) 
-Workshop FRB-CESAB: Literature Synthesis, Meta-analyses and Systematic reviews (Edition 2022). 
+Langridge J, Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Ouédraogo D-Y & Sordello R (`r format(Sys.Date(), "%Y")`) 
+FRB-CESAB & UMS PatriNat training course: Introduction to meta-analyses and systematic reviews. 
