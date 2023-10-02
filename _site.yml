@@ -21,7 +21,7 @@ navbar:
       menu:
       - text: "DAY 1"
       - text: "Introduction"
-        #href: "courses/1-Introduction.pdf"
+        href: "courses/1-Introduction.pdf"
       - text: "Formulating review questions"
         #href: "courses/2-Stakeholders.pdf"
       - text: "The Protocol"
