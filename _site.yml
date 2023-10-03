@@ -39,6 +39,8 @@ navbar:
         #href: "courses/9-Metacoding.pdf"
       - text: "Data visualization"
         #href: "courses/10-Dataviz.pdf"
+      - text: "Guest talk: Jérémy Carlot"
+        href: "courses/Study_case_Jeremy_Carlot_2023.pdf"
       - text: "DAY 3"
       - text: "Critical analysis"
         #href: "courses/11-CriticalAnalysis.pdf"
