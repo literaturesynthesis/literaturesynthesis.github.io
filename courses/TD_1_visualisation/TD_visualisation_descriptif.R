@@ -23,7 +23,7 @@ library(colourpicker) # pour choisir les couleurs
 csv_file <- file.choose()
 
 # Chargement des données à partir du fichier CSV choisi 
-DATA <- read.csv(csv_file, sep=";")
+DATA <- read.csv(csv_file, sep=",")
 
 #Jeu de données d'une evidence map des études qui analysent 
 #l'impact des interventions humaines sur les niveaux de carbone
@@ -127,10 +127,10 @@ library(dplyr)         # Pour gérer les données
 csv_file <- file.choose()
 
 # Chargement des données à partir du fichier CSV choisi 
-DATA <- read.csv(csv_file, sep = ";") %>%
+DATA <- read.csv(csv_file, sep= ';') %>%
   dplyr::mutate(Country = factor(tolower(Country))) %>%
   dplyr::rename(geounit = Country)
-summary(PS2)
+summary(DATA)
 ##  Cette base de données présente le nombre d'étude pour chacun des pays
 
 # Chargement de la carte du monde
@@ -142,15 +142,13 @@ world <- rnaturalearth::ne_countries(scale = "medium", returnclass = "sf") %>%
     geounit == "united states of america" ~ "usa",
     TRUE ~ geounit
   ))
-world2$cut_n <- cut(world2$Count, breaks = c(0, 10, 40, 80, 500))
-
 
 # Fusionner la carte et les données sur les pays
 world2 <- merge(world, DATA, by = "geounit", all = TRUE) %>%
 # Créer une variable discrète pour la légende
   mutate(cut_n = cut(Count, breaks = c(0, 10, 40, 80, 500)))
 
-brks_scale <- levels(world2$cut_n)
+world2$cut_n <- cut(world2$Count, breaks = c(0, 10, 40, 80, 500))
 
 # Créer la carte du noùbre de publication
 map_plot <- ggplot(world2) +
@@ -166,7 +164,7 @@ map_plot <- ggplot(world2) +
   theme(legend.position = "bottom") +
   scale_fill_manual(values = c('#f6e8c3',"#dfc283",'#ba966c','#e5f5e0','#a1d99b','#31a354'), na.value = "white")
 
-
+map_plot
 
 #--------------------------------------------------------------
 #### GRAPHIQUE 3:  Création de la Treemap des Populations et Expositions
@@ -176,7 +174,7 @@ map_plot <- ggplot(world2) +
 library(treemapify)
 
 
-# Choisir le fichier CSV nommé Données Datavipoz.csv dans votre ordinateur.
+# Choisir le fichier CSV nommé Données Données Dataviz_pop.csv dans votre ordinateur.
 csv_file <- file.choose()
 
 # Chargement des données à partir du fichier CSV choisi 
@@ -210,9 +208,6 @@ treemap_plot <- ggplot(DATA, aes(area = Abstract, fill = Type, label = Type)) +
 
 # Affichez le graphique
 treemap_plot
-# Affichez le graphique
-treemap_plot
-
 
 #--------------------------------------------------------------
 #### GRAPHIQUE 4:  Création de la Heatmap
