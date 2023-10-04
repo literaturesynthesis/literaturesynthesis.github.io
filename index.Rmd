@@ -92,113 +92,113 @@ and systematic reviews/maps applied to the field of biodiversity.
   </tr>
   <tr>
     <td>Introduction to knowledge synthesis 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/1-Introduction.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>The systematic review protocols 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/2-Stakeholders.pdf">SLIDES</a>
     </span>
     <span class="btn">
     <a href="courses/3-Protocol.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Bibliographic databases (Web of Science, Scopus, Google Scholar) 
-    <!--<span class="btn">
+    <<span class="btn">
     <a href="courses/4-SystematicMap.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Formulation of the search equation (PECO/PICO approach) 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/4-SystematicMap.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Constitution of the corpus (Zotero, Mendeley) 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="https://literaturesynthesis.github.io/corpus-management/">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Corpus cleaning 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/4-SystematicMap.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   
   <tr>
     <td rowspan="4">**Tuesday**</td>
     <td>Article screening: systematic methods 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/7-Reporting.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Article selection: eligibility criteria 
-    <!--<span class="btn"><a href="courses/8-SearchingPDF.pdf">SLIDES</a>
-    </span>-->
+    <span class="btn"><a href="courses/8-SearchingPDF.pdf">SLIDES</a>
+    </span>
     </td>
   </tr>
   <tr>
     <td>Metadata extraction 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/9-Metacoding.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Qualitative synthesis and data visualization 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/10-Dataviz.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   
   <tr>
     <td rowspan="5">**Wednesday**</td>
     <td>Critical appraisal: understanding its importance 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/11-CriticalAnalysis.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>How to calculate an effect-sizes? 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/12-EffectSizes.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Quantitative data extraction: what tools are available? 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/13-DataExtraction.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Quantitative synthesis: visualizing the data (forest plots, etc.) 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/13-DataExtraction.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   <tr>
     <td>Risk of bias and interpretation of meta-analysis results 
-    <!--<span class="btn">
+    <span class="btn">
     <a href="courses/14-BiasRisk.pdf">SLIDES</a>
-    </span>-->
+    </span>
     </td>
   </tr>
   
