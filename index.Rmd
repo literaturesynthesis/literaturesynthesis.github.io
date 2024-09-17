@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Meta-analyses and Systematic reviews"
 description:  |
-  FRB-CESAB & UMS PatriNat training course
+  FRB-CESAB, UMS PatriNat & Cirad HortSys Training course
   <br><br>
   <a href="https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-knowledge-synthesis-an-introduction-to-meta-analyses-and-systematic-reviews/">
     <img class="logo" src="https://raw.githubusercontent.com/literaturesynthesis/.github/main/profile/banner-literaturesynthesis_150dpi.png" style="width: 100%;" />
@@ -24,8 +24,8 @@ author:
     orcid_id: 0000-0003-0049-4410
   - name: "C. Sylvie Campagne"
     url: https://csylviecampagne.com/
-    affiliation: Station Biologique de Roscoff
-    affiliation_url: https://www.sb-roscoff.fr/en
+    affiliation: Sorbonne University
+    affiliation_url: https://www.sorbonne-universite.fr/
     orcid_id: 0000-0002-2566-7827
   - name: "Nicolas Casajus"
     url: https://nicolascasajus.fr
@@ -39,14 +39,24 @@ author:
     orcid_id: 0000-0003-3737-106X
   - name: " Dakis-Yaoba Ouédraogo"
     url: https://www.researchgate.net/profile/Dakis-Yaoba-Ouedraogo-2
-    affiliation: UMS PatriNat
-    affiliation_url: https://www.patrinat.fr/fr
+    affiliation: Independent expert
+    affiliation_url: "#"
     orcid_id: 0000-0003-2674-2259
+  - name: "Cathleen Petit"
+    url: https://scholar.google.com/citations?user=rcyli4QAAAAJ&hl=fr
+    affiliation: FRB-CESAB
+    affiliation_url: https://www.fondationbiodiversite.fr/la-fondation/le-cesab/
+    orcid_id: 0000-0001-7714-6583
   - name: "Romain Sordello"
     url: https://www.biodiversite.romain-sordello.fr/
     affiliation: UMS PatriNat
     affiliation_url: https://www.patrinat.fr/fr
     orcid_id: 0000-0002-7144-101X
+  - name: "Devi Veytia"
+    url: https://scholar.google.com/citations?user=KG2HtuUAAAAJ&hl=en
+    affiliation: ENS-PSL
+    affiliation_url: https://www.ens.psl.eu/
+    orcid_id: 0000-0001-6268-1508
 date: "`r format(Sys.Date(), '%m-%d-%Y')`"
 site: distill::distill_website
 ---
@@ -66,13 +76,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 The objective of this five-day training course, co-organized by the
-[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
-and the 
-[UMS PatriNat](https://www.patrinat.fr/)
+[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), the 
+[UMS PatriNat](https://www.patrinat.fr/) and the [Cirad HortSys](https://ur-hortsys.cirad.fr/)
 is to train young researchers on the methods and techniques of meta-analyses 
 and systematic reviews/maps applied to the field of biodiversity.
 
-**N.B.** This training course is **in French**, but some slides are available in English in the tab `Courses/`.
+**N.B.** This training course is **in French**, but slides are available in English in the tab `Courses/`.
 
 
 
@@ -92,113 +101,143 @@ and systematic reviews/maps applied to the field of biodiversity.
   </tr>
   <tr>
     <td>Introduction to knowledge synthesis 
+    <!--
     <span class="btn">
     <a href="courses/1-Introduction.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>The systematic review protocols 
-    <span class="btn">
+    <!--<span class="btn">
     <a href="courses/2-Stakeholders.pdf">SLIDES</a>
     </span>
-    <span class="btn">
+    -->
+    <!--<span class="btn">
     <a href="courses/3-Protocol.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Bibliographic databases (Web of Science, Scopus, Google Scholar) 
-    <<span class="btn">
+    <!--
+    <span class="btn">
     <a href="courses/4-SystematicMap.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Formulation of the search equation (PECO/PICO approach) 
+    <!--
     <span class="btn">
     <a href="courses/4-SystematicMap.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Constitution of the corpus (Zotero, Mendeley) 
+    <!--
     <span class="btn">
     <a href="https://literaturesynthesis.github.io/corpus-management/">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Corpus cleaning 
+    <!--
     <span class="btn">
     <a href="courses/4-SystematicMap.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   
   <tr>
     <td rowspan="4">**Tuesday**</td>
     <td>Article screening: systematic methods 
+    <!--
     <span class="btn">
     <a href="courses/7-Reporting.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Article selection: eligibility criteria 
+    <!--
     <span class="btn"><a href="courses/8-SearchingPDF.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Metadata extraction 
+    <!--
     <span class="btn">
     <a href="courses/9-Metacoding.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Qualitative synthesis and data visualization 
+    <!--
     <span class="btn">
     <a href="courses/10-Dataviz.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   
   <tr>
     <td rowspan="5">**Wednesday**</td>
     <td>Critical appraisal: understanding its importance 
+    <!--
     <span class="btn">
     <a href="courses/11-CriticalAnalysis.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>How to calculate an effect-sizes? 
+    <!--
     <span class="btn">
     <a href="courses/12-EffectSizes.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Quantitative data extraction: what tools are available? 
+    <!--
     <span class="btn">
     <a href="courses/13-DataExtraction.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Quantitative synthesis: visualizing the data (forest plots, etc.) 
+    <!--
     <span class="btn">
     <a href="courses/13-DataExtraction.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   <tr>
     <td>Risk of bias and interpretation of meta-analysis results 
+    <!--
     <span class="btn">
     <a href="courses/14-BiasRisk.pdf">SLIDES</a>
     </span>
+    -->
     </td>
   </tr>
   
@@ -223,7 +262,7 @@ and systematic reviews/maps applied to the field of biodiversity.
 
 ## Prerequisites
 
-Please follow this [tutorial](https://frbcesab.github.io/training-courses/installation.html) to install your working environment **before** attending the training course.
+Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install your working environment before attending the training course. You only need to install **R** and **RStudio Desktop**.
 
 
 <br/>
@@ -233,11 +272,10 @@ Please follow this [tutorial](https://frbcesab.github.io/training-courses/instal
 ## See also
 
 
-Discover the other training courses provided by the FRB-CESAB and its partners: <https://frbcesab.github.io/training-courses/>
+Discover the other training courses provided by the FRB-CESAB and its partners: <https://frbcesab.github.io/content/courses.html>
 
 
 
 ## Citation {.appendix}
 
-Langridge J, Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Ouédraogo D-Y & Sordello R (`r format(Sys.Date(), "%Y")`) 
-FRB-CESAB & UMS PatriNat training course: Introduction to meta-analyses and systematic reviews. 
+Langridge J, Beillouin D, Bonfanti J, Campagne CS, Casajus N, Gosselin F, Ouédraogo D-Y, Petit C, Sordello R & Veytia D (`r format(Sys.Date(), "%Y")`) FRB-CESAB, UMS PatriNat & Cirad HortSys training course: Introduction to meta-analyses and systematic reviews. 
