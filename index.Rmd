@@ -96,158 +96,190 @@ and systematic reviews/maps applied to the field of biodiversity.
 <table>
   
   <tr>
-    <td rowspan="7">**Monday**</td>
+    <td rowspan="8">**Monday**</td>
     <td>Icebreaker & Introduction to the week</td>
   </tr>
+  
   <tr>
-    <td>Introduction to knowledge synthesis 
+    <td>Introduction to meta-analyses
     <!--
     <span class="btn">
-    <a href="courses/1-Introduction.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>The systematic review protocols 
-    <!--<span class="btn">
-    <a href="courses/2-Stakeholders.pdf">SLIDES</a>
-    </span>
-    -->
-    <!--<span class="btn">
-    <a href="courses/3-Protocol.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Bibliographic databases (Web of Science, Scopus, Google Scholar) 
-    <!--
-    <span class="btn">
-    <a href="courses/4-SystematicMap.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Formulation of the search equation (PECO/PICO approach) 
-    <!--
-    <span class="btn">
-    <a href="courses/4-SystematicMap.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Constitution of the corpus (Zotero, Mendeley) 
-    <!--
-    <span class="btn">
-    <a href="https://literaturesynthesis.github.io/corpus-management/">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Corpus cleaning 
-    <!--
-    <span class="btn">
-    <a href="courses/4-SystematicMap.pdf">SLIDES</a>
+    <a href="courses/1-Introduction.pdf">Slides</a>
     </span>
     -->
     </td>
   </tr>
   
   <tr>
-    <td rowspan="4">**Tuesday**</td>
-    <td>Article screening: systematic methods 
-    <!--
-    <span class="btn">
-    <a href="courses/7-Reporting.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Article selection: eligibility criteria 
-    <!--
-    <span class="btn"><a href="courses/8-SearchingPDF.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Metadata extraction 
-    <!--
-    <span class="btn">
-    <a href="courses/9-Metacoding.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  <tr>
-    <td>Qualitative synthesis and data visualization 
-    <!--
-    <span class="btn">
-    <a href="courses/10-Dataviz.pdf">SLIDES</a>
+    <td>Involving stakeholders & Formulating questions
+    <!--<span class="btn">
+    <a href="courses/2-Stakeholders.pdf">Slides</a>
     </span>
     -->
     </td>
   </tr>
   
   <tr>
-    <td rowspan="5">**Wednesday**</td>
+    <td>The Protocol
+    <!--<span class="btn">
+    <a href="courses/3-Protocol.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Bibliographic databases & Search equations
+    <!--
+    <span class="btn">
+    <a href="courses/4-SystematicMap.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Constitution of the corpus
+    <!--
+    <span class="btn">
+    <a href="https://literaturesynthesis.github.io/corpus-management/">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Article screening: Systematic methods  & Eligibility criteria 
+    <!--
+    <span class="btn"><a href="courses/8-SearchingPDF.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Full-text retrieval
+    <!--
+    <span class="btn"><a href="courses/8-SearchingPDF.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td rowspan="7">**Tuesday**</td>
+    <td>Introduction to automated screening techniques
+    <!--
+    <span class="btn">
+    <a href="courses/7-Reporting.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>AI-assisted screening
+    <!--
+    <span class="btn"><a href="courses/8-SearchingPDF.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Reporting
+    <!--
+    <span class="btn">
+    <a href="courses/9-Metacoding.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Systematic maps: Metadata extraction 
+    <!--
+    <span class="btn">
+    <a href="courses/9-Metacoding.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Qualitative metadata extraction: Machine learning approach
+    <!--
+    <span class="btn">
+    <a href="courses/10-Dataviz.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Data visualization 
+    <!--
+    <span class="btn">
+    <a href="courses/10-Dataviz.pdf">Slides</a>
+    </span>
+    -->
+    </td>
+  </tr>
+
+  <tr>
     <td>Critical appraisal: understanding its importance 
     <!--
     <span class="btn">
-    <a href="courses/11-CriticalAnalysis.pdf">SLIDES</a>
+    <a href="courses/11-CriticalAnalysis.pdf">Slides</a>
     </span>
     -->
     </td>
   </tr>
+
   <tr>
-    <td>How to calculate an effect-sizes? 
+    <td rowspan="4">**Wednesday**</td>
+    <td>Meta-analyses: quantitative approaches 
     <!--
     <span class="btn">
-    <a href="courses/12-EffectSizes.pdf">SLIDES</a>
+    <a href="courses/11-CriticalAnalysis.pdf">Slides</a>
     </span>
     -->
     </td>
   </tr>
+  
   <tr>
     <td>Quantitative data extraction: what tools are available? 
     <!--
     <span class="btn">
-    <a href="courses/13-DataExtraction.pdf">SLIDES</a>
+    <a href="courses/13-DataExtraction.pdf">Slides</a>
     </span>
     -->
     </td>
   </tr>
-  <tr>
-    <td>Quantitative synthesis: visualizing the data (forest plots, etc.) 
-    <!--
-    <span class="btn">
-    <a href="courses/13-DataExtraction.pdf">SLIDES</a>
-    </span>
-    -->
-    </td>
-  </tr>
+  
   <tr>
     <td>Risk of bias and interpretation of meta-analysis results 
     <!--
     <span class="btn">
-    <a href="courses/14-BiasRisk.pdf">SLIDES</a>
+    <a href="courses/14-BiasRisk.pdf">Slides</a>
     </span>
     -->
     </td>
   </tr>
   
   <tr>
-    <td>**Thursday**</td>
-    <td>Subgroups projects</td>
+    <td>Going beyond global mean effect size
+    <!--
+    <span class="btn">
+    <a href="courses/13-DataExtraction.pdf">Slides</a>
+    </span>
+    -->
+    </td>
   </tr>
   
+  
   <tr>
-    <td>**Friday**</td>
+    <td>**Thursday** - **Friday**</td>
     <td>Subgroups projects</td>
   </tr>
   
@@ -262,7 +294,7 @@ and systematic reviews/maps applied to the field of biodiversity.
 
 ## Prerequisites
 
-Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install your working environment before attending the training course. You only need to install **R** and **RStudio Desktop**.
+Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install your working environment before attending the training course. Note: for this course only **R** and **RStudio Desktop** are required.
 
 
 <br/>
