@@ -68,6 +68,8 @@ knitr::opts_chunk$set(echo = FALSE)
 - Koricheva J, Gurevitch J & Mengersen K (2013) Handbook of meta-analysis in ecology and evolution. Princeton University Press, 592p. URL:
 <https://www.jstor.org/stable/j.ctt24hq6n>
 
+- Nakagawa, S, Yang, Y, Macartney, EL _et al._ (2023) Quantitative evidence synthesis: A practical guide on meta-analysis, meta-regression, and publication bias tests for environmental sciences. **_Environmental Evidence_**, doi: <https://doi.org/10.1186/s13750-023-00301-6>.
+
 
 <br/>
 
