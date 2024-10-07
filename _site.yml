@@ -25,7 +25,7 @@ navbar:
       - text: "The Protocol"
         href: "courses/the-protocol.pdf"
       - text: "Formulating questions"
-        href: "courses/formulating-questions-with-stakeholders.pdf"
+        href: "#"
       - text: "Literature search"
         href: "courses/literature-search.pdf"
       - text: "Corpus management"
