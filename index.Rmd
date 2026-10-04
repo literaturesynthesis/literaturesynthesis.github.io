@@ -81,7 +81,7 @@ The objective of this five-day training course, co-organized by the
 is to train young researchers on the methods and techniques of meta-analyses 
 and systematic reviews/maps applied to the field of biodiversity.
 
-**N.B.** This training course is **in French**, but slides are available in English in the tab `Courses/`.
+**N.B.** This training course is **in French**, but slides are available in English.
 
 
 
@@ -91,200 +91,70 @@ and systematic reviews/maps applied to the field of biodiversity.
 
 ## Program
 
+### Monday
+
+|       | Session                                           | Trainer | Material                                                                        |
+| ----: | :------------------------------------------------ | :-----: | :-------: |
+| 9:00  | Welcome and icebreaker                            | All     |                                                                                 |
+| 9:30  | Introduction to evidence synthesis                | DB      | [slides](https://dbeillouin.github.io/cours_Meta_analyses/01-introduction.html) |
+| 10:30 | Stakeholder engagement in systematic reviews      | JL      | [slides](courses/engaging-stakeholder-2026.pdf)                                 |
+| 11:15 | Planning a systematic review: the protocol        | JL      | [slides](courses/planning-a-systematic-review-2026.pdf)                         |
+| 14:00 | Literature search: databases and search equations | SC      | [slides](courses/literature-search-2026.pdf)                                    |
+| 15:00 | Corpus organisation and reference management      | NC      | [slides](https://literaturesynthesis.github.io/corpus-management)               |
+| 15:45 | Screening: title, abstract and full text          | SC      | [slides](courses/screening-2026.pdf)                                                 |
+| 16:30 | Retrieving full-texts                             | NC      | [slides](https://literaturesynthesis.github.io/retrieving-fulltext)             |
+| 17:00 | Reporting standards (ROSES)                       | JL      | [slides](courses/reporting-standards-2026.pdf)                                  |
 
 
-<table>
-  
-  <tr>
-    <td rowspan="8">**Monday**</td>
-    <td>Icebreaker & Introduction to the week</td>
-  </tr>
-  
-  <tr>
-    <td>Introduction to meta-analyses
-    <!--
-    <span class="btn">
-    <a href="courses/1-Introduction.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Involving stakeholders & Formulating questions
-    <!--<span class="btn">
-    <a href="courses/2-Stakeholders.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>The Protocol
-    <!--<span class="btn">
-    <a href="courses/3-Protocol.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Bibliographic databases & Search equations
-    <!--
-    <span class="btn">
-    <a href="courses/4-SystematicMap.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Constitution of the corpus
-    <!--
-    <span class="btn">
-    <a href="https://literaturesynthesis.github.io/corpus-management/">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Article screening: Systematic methods  & Eligibility criteria 
-    <!--
-    <span class="btn"><a href="courses/8-SearchingPDF.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Full-text retrieval
-    <!--
-    <span class="btn"><a href="courses/8-SearchingPDF.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td rowspan="7">**Tuesday**</td>
-    <td>Introduction to automated screening techniques
-    <!--
-    <span class="btn">
-    <a href="courses/7-Reporting.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>AI-assisted screening
-    <!--
-    <span class="btn"><a href="courses/8-SearchingPDF.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Reporting
-    <!--
-    <span class="btn">
-    <a href="courses/9-Metacoding.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Systematic maps: Metadata extraction 
-    <!--
-    <span class="btn">
-    <a href="courses/9-Metacoding.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Qualitative metadata extraction: Machine learning approach
-    <!--
-    <span class="btn">
-    <a href="courses/10-Dataviz.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Data visualization 
-    <!--
-    <span class="btn">
-    <a href="courses/10-Dataviz.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
 
-  <tr>
-    <td>Critical appraisal: understanding its importance 
-    <!--
-    <span class="btn">
-    <a href="courses/11-CriticalAnalysis.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
+### Tuesday
 
-  <tr>
-    <td rowspan="4">**Wednesday**</td>
-    <td>Meta-analyses: quantitative approaches 
-    <!--
-    <span class="btn">
-    <a href="courses/11-CriticalAnalysis.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Quantitative data extraction: what tools are available? 
-    <!--
-    <span class="btn">
-    <a href="courses/13-DataExtraction.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Risk of bias and interpretation of meta-analysis results 
-    <!--
-    <span class="btn">
-    <a href="courses/14-BiasRisk.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Going beyond global mean effect size
-    <!--
-    <span class="btn">
-    <a href="courses/13-DataExtraction.pdf">Slides</a>
-    </span>
-    -->
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td>**Thursday** - **Friday**</td>
-    <td>Subgroups projects</td>
-  </tr>
-  
-</table>
+|       | Session                                                | Trainer | Material  |
+| ----: | :----------------------------------------------------- | :-----: | :-------: |
+| 9:00  | Corpus visualisation approaches                        | JL      | [slides](courses/corpus-visualisation-2026.pdf)                                    |
+| 9:20  | Workshop: from hypotheses to a systematic map          | JL/DV   | [slides](courses/from-hypothesis-to-codebook-2026.pdf)                             |
+| 10:30 | Codebook construction and testing                      | JL/DV   | [slides](courses/codebook-construction-2026.pdf)                                   |
+| 14:00 | R practical: mapping the evidence **^(a)^**            | DV/DB   | [slides](https://dbeillouin.github.io/cours_Meta_analyses/02-td-evidence-map.html) |
+| 14:45 | Automated techniques: introduction to machine learning | DV      | [slides](courses/introduction-to-ai-2026.pdf)                                      |
+| 16:15 | Applying the RAISE guidelines                          | DV      | [slides](courses/introduction-to-ai-2026.pdf)                                      |
 
+**^(a)^** Material for practice available [here](02-td-evidence-map_TD.html)
+
+
+
+### Wednesday
+
+|       | Session                                                         | Trainer | Material |
+| ----: | :---------------------------------------------------------------| :-----: | :------: |
+| 9:00  | Effect sizes **^(b)^**                                          | DB      | [slides](https://dbeillouin.github.io/cours_Meta_analyses/03-effect-sizes.html) |
+| 10:00 | Critical appraisal and study validity                           | JL      | [slides](courses/critical-appraisal-2026.pdf)                                   |
+| 11:15 | Quantitative data extraction: methods and tools **^(c)^**       | JL      | [slides](courses/quantitative-data-extraction-2026.pdf)                         |
+| 14:00 | Fixed, random and multilevel models **^(d)^**                   | DB      | [slides](https://dbeillouin.github.io/cours_Meta_analyses/04-models.html)       |
+| 15:00 | Publication bias and sensitivity **^(e)^**                      | DB      | [slides](https://dbeillouin.github.io/cours_Meta_analyses/05-bias.html)         |
+| 16:15 | Why does the effect vary? Moderators and missing data **^(f)^** | DB      | [slides](https://dbeillouin.github.io/cours_Meta_analyses/06-advanced.html)     |
+| 17:00 | Group work: discussion and constitution of groups               | All     | |
+
+**^(b)^** Cheatsheet on effect sizes formula available [here](https://dbeillouin.github.io/cours_Meta_analyses/03-effect-sizes_formula_sheet.pdf)<br>
+**^(c)^** Sample papers available [here](https://drive.google.com/drive/folders/1fCz5eYuqeYyvGC4zFngAK1AXMJ2C2Aly)<br>
+**^(d)^** Material for practice available [here](https://dbeillouin.github.io/cours_Meta_analyses/04-models_TD.html)<br>
+**^(e)^** Material for practice available [here](https://dbeillouin.github.io/cours_Meta_analyses/05-bias_TD.html)<br>
+**^(f)^** Material for practice available [here](https://dbeillouin.github.io/cours_Meta_analyses/06-advanced_TD.html)
+
+
+
+### Thursday
+
+|       | Session                                           | Trainer | Material                                                                        |
+| ----: | :------------------------------------------------ | :-----: | :-------: |
+| 9:00  | Group projects (meta-analysis or systematic review plan) | All     | |
+
+
+
+### Friday (morning)
+
+|       | Session                                           | Trainer | Material                                                                        |
+| ----: | :------------------------------------------------ | :-----: | :-------: |
+| 9:00  | Final presentations and feedback                  | All     | |
 
 
 
