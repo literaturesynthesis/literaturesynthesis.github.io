@@ -118,7 +118,7 @@ and systematic reviews/maps applied to the field of biodiversity.
 | 14:45 | Automated techniques: introduction to machine learning | DV      | [slides](courses/introduction-to-ai-2026.pdf)                                      |
 | 16:15 | Applying the RAISE guidelines                          | DV      | [slides](courses/introduction-to-ai-2026.pdf)                                      |
 
-**^(a)^** Material for practice available [here](02-td-evidence-map_TD.html)
+**^(a)^** Material for practice available [here](https://dbeillouin.github.io/cours_Meta_analyses/02-td-evidence-map_TD.html)
 
 
 
